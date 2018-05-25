@@ -1,0 +1,12 @@
+$10	4	4* Prize One
+A Hamster	4	4* Prize Two
+Dinner	4	4* Prize Three
+A Watch	4	4* Prize Four
+Karate Lessons	5	5* Prize One
+A New TV	5	5* Prize Two
+One Night in a Hotel	5	5* Prize Three
+$100	5	5* Prize Four
+An Afternoon with Denis Long	6	6* Prize One
+A Trip to Spain	6	6* Prize Two
+$1000	6	6* Prize Three
+A New Car	6	6* Prize Four

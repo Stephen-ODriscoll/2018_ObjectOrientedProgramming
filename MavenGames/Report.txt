@@ -1,0 +1,14 @@
+Position: 1    	Name: Stephen	Category: 6
+Position: 7    	Name: Cathy  	Category: 6
+Position: 10   	Name: Bob    	Category: 6
+Position: 5    	Name: Mike   	Category: 5
+Position: 11   	Name: Chucky 	Category: 5
+Position: 0    	Name: Mary   	Category: 4
+Position: 2    	Name: John   	Category: 4
+Position: 3    	Name: Eileen 	Category: 4
+Position: 4    	Name: Megan  	Category: 4
+Position: 6    	Name: Tim    	Category: 4
+Position: 8    	Name: Pat    	Category: 4
+Position: 9    	Name: Player 	Category: 4
+Position: 12   	Name: Will   	Category: 4
+Position: 13   	Name: Aaron  	Category: 4
