@@ -1,4 +1,4 @@
-# 2017_Programming_StephenODriscoll
+# 2018_Programming_SDH2_StephenODriscoll
 
 # My FinalProject will not connect to JDBC unless ran from a computer in CIT connected to Eduroam.
 
